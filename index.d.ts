@@ -60,7 +60,9 @@ interface DescriptionProps {
     children: string;
 }
 
-type reactNativeModalContainerProps = Partial<Pick<ModalProps, Exclude<keyof ModalProps, "isVisible">>>;
+type reactNativeModalContainerProps = Partial<Pick<ModalProps, Exclude<keyof ModalProps, "isVisible">> & {
+    onBackdropPress: () => void;
+}>;
 
 export namespace Dialog {
     class Button extends PureComponent<
