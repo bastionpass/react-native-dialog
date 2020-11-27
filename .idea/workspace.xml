@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f04b1b5d-5a93-459d-8edd-d9fb2fd9e881" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Title.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Title.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,5 +76,9 @@
       <screen x="0" y="0" width="2560" height="1407" />
     </state>
     <state width="2537" height="379" key="GridCell.Tab.0.right/0.0.2560.1407@0.0.2560.1407" timestamp="1606404925077" />
+    <state x="445" y="433" width="1127" height="879" key="find.popup" timestamp="1606459937332">
+      <screen x="0" y="0" width="2560" height="1407" />
+    </state>
+    <state x="445" y="433" width="1127" height="879" key="find.popup/0.0.2560.1407@0.0.2560.1407" timestamp="1606459937332" />
   </component>
 </project>
